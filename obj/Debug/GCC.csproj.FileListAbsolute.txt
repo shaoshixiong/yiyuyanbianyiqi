@@ -1,0 +1,6 @@
+G:\Y2\asp.net\MvcTest20130404\Test\GCC\bin\Debug\GCC.exe.config
+G:\Y2\asp.net\MvcTest20130404\Test\GCC\bin\Debug\GCC.exe
+G:\Y2\asp.net\MvcTest20130404\Test\GCC\bin\Debug\GCC.pdb
+G:\Y2\asp.net\MvcTest20130404\Test\GCC\obj\Debug\GCC.csprojResolveAssemblyReference.cache
+G:\Y2\asp.net\MvcTest20130404\Test\GCC\obj\Debug\GCC.exe
+G:\Y2\asp.net\MvcTest20130404\Test\GCC\obj\Debug\GCC.pdb
